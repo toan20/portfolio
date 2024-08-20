@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.8c968b22.css",
-    "main.js": "/portfolio/static/js/main.551d0c6c.js",
+    "main.js": "/portfolio/static/js/main.752aadc4.js",
     "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
     "static/media/screencapture-toan20-github-io-movie-2024-08-20-12_40_28.png": "/portfolio/static/media/screencapture-toan20-github-io-movie-2024-08-20-12_40_28.7b98551518a845d7189b.png",
     "static/media/300f4886-d243-4c03-a005-d64eb4ca41d5.png": "/portfolio/static/media/300f4886-d243-4c03-a005-d64eb4ca41d5.8c09b7130afdde5b5d8c.png",
@@ -10,11 +10,11 @@
     "static/media/screencapture-toan20-github-io-GamePoint-2024-08-20-12_45_51.png": "/portfolio/static/media/screencapture-toan20-github-io-GamePoint-2024-08-20-12_45_51.77ca55b3c2a92a8e0451.png",
     "index.html": "/portfolio/index.html",
     "main.8c968b22.css.map": "/portfolio/static/css/main.8c968b22.css.map",
-    "main.551d0c6c.js.map": "/portfolio/static/js/main.551d0c6c.js.map",
+    "main.752aadc4.js.map": "/portfolio/static/js/main.752aadc4.js.map",
     "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8c968b22.css",
-    "static/js/main.551d0c6c.js"
+    "static/js/main.752aadc4.js"
   ]
 }
